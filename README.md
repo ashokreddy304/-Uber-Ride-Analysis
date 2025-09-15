@@ -7,12 +7,12 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn)**, the dataset is cleaned, t
 
 ## 📂 Project Structure
 
-'''
-├── ncr_ride_bookings.csv # Dataset
-├── UBER Analysis.ipynb # Jupyter Notebook with full code
-├── UBER Analysis.pdf # Exported analysis report
-└── README.md # Project documentation
-'''
+## 📂 Project Structure  
+
+- `ncr_ride_bookings.csv` → Dataset  
+- `UBER Analysis.ipynb` → Jupyter Notebook with full code  
+- `UBER Analysis.pdf` → Exported analysis report  
+- `README.md` → Project documentation  
 
 
 ---
