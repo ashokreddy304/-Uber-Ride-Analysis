@@ -5,8 +5,6 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn)**, the dataset is cleaned, t
 
 ---
 
-## 📂 Project Structure
-
 ## 📂 Project Structure  
 
 - `ncr_ride_bookings.csv` → Dataset  
