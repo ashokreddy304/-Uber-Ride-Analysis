@@ -6,10 +6,13 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn)**, the dataset is cleaned, t
 ---
 
 ## 📂 Project Structure
+
+'''
 ├── ncr_ride_bookings.csv # Dataset
 ├── UBER Analysis.ipynb # Jupyter Notebook with full code
 ├── UBER Analysis.pdf # Exported analysis report
 └── README.md # Project documentation
+'''
 
 
 ---
@@ -32,7 +35,7 @@ The dataset contains **150,000+ Uber ride bookings** with the following key colu
 
 - Filled missing values using mean/mode or placeholders (e.g., *Reason Unknown*).  
 - Converted data types (`date`, `time`, categorical variables).  
-- Added new features like **hour** and **timeZone** (Morning, Afternoon, Evening, Late Night).
+- Added new features like **hour** and **timeZone** (Morning, Afternoon, Evening, Late Night).  
 
 ---
 
@@ -75,5 +78,3 @@ Some of the visual insights include:
 
 ---
 
-   git clone https://github.com/your-username/uber-analysis.git
-   cd uber-analysis
