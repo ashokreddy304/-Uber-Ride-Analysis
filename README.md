@@ -77,7 +77,7 @@ Some of the visual insights include:
 ---
 📌 Author
 
-👤 Ashok
-📧 cashokreddy499@gmail.com
-🔗 www.linkedin.com/in/cashok-reddy
+- 👤 Ashok
+- 📧 cashokreddy499@gmail.com
+- 🔗 www.linkedin.com/in/cashok-reddy
 
